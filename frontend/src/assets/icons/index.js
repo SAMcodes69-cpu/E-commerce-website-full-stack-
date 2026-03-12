@@ -15,4 +15,16 @@ import googleLogo from "./google.png";
 import cart1 from "./cart1.png";
 import bin from "./icon-delete.png";
 import vector from "./vector.png";
-export {search,cart,fav,send,qr,google,apple,facebook,insta,twitter,linkin,copyright,beatsnoop,googleLogo,cart1,bin,vector};
+import hero from "./HeroBanner.png";
+import leftarrow from "./leftarrow.png";
+import rightarrow from "./rightarrow.png";
+import phone from "./phone.png";
+import computer from "./computer.png";
+import camera from "./camera.png";
+import headphone from "./headphone.png";
+import gaming from "./gaming.png";
+import smartwatch from "./smartwatch.png";
+
+export {search,cart,fav,send,qr,google,apple,facebook,insta,twitter,linkin,copyright,
+    beatsnoop,googleLogo,cart1,bin,vector,hero,leftarrow,rightarrow
+    , phone, computer, camera, headphone, gaming, smartwatch};

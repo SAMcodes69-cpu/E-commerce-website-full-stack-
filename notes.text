@@ -73,3 +73,5 @@ Display	full object
 
 stringify = object → string
 📦 parse = string → object
+
+// learn to handle errors in hooks

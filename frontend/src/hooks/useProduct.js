@@ -14,7 +14,7 @@ export function useProduct(){
             setLoading(false);
             return;
         }
-        const fetchLoading = async () => {
+        async () => {
             setLoading(true);
             try {
                 const res = await fetch(`https://dummyjson.com/products/${id}`);
